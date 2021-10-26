@@ -78,6 +78,6 @@ usb-creator==0.3.7
 uvicorn==0.11.3
 wadllib==1.3.3
 websocket-client==0.53.0
-websockets==8.1
+websockets==9.1
 wsproto==0.15.0
 xkit==0.0.0
